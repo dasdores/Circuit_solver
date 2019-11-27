@@ -37,11 +37,11 @@ struct output{
 };
 struct numeroContador{
 	int Conector;
-    int Entrada;
-    int Saida;
-    int Porta;
-    int Vez;
-    int Linha;
+    	int Entrada;
+    	int Saida;
+    	int Porta;
+    	int Vez;
+    	int Linha;
 };
 struct table{
 	int matrizTabelaVerdade[MAX_COMBINACOES][MAX_ENTRADA];
